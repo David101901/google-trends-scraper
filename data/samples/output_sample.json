@@ -1,0 +1,45 @@
+[
+  {
+    "inputUrlOrTerm": "web scraping",
+    "searchTerm": "web scraping",
+    "options": {
+      "hl": "en-US",
+      "tz": 0,
+      "geo": "US",
+      "timeframe": "today 12-m",
+      "gprop": "",
+      "category": 0
+    },
+    "interestOverTime_timelineData": [
+      {
+        "time": 1703980800,
+        "formattedTime": "Dec 31, 2023",
+        "value": [81],
+        "formattedValue": ["81"]
+      }
+    ],
+    "interestBySubregion": [
+      {
+        "geoCode": "CA",
+        "geoName": "California",
+        "value": [46],
+        "formattedValue": ["46"]
+      }
+    ],
+    "interestByCity": [],
+    "relatedTopics_top": [
+      {
+        "topic": { "title": "Web scraping", "type": "Topic" },
+        "value": 100,
+        "term": "web scraping"
+      }
+    ],
+    "relatedTopics_rising": [],
+    "relatedQueries_top": [
+      { "query": "web scraping python", "value": 100, "formattedValue": "100", "term": "web scraping" }
+    ],
+    "relatedQueries_rising": [
+      { "query": "chatgpt web scraping", "value": 4250, "formattedValue": "+4,250%", "term": "web scraping" }
+    ]
+  }
+]
