@@ -1,0 +1,11 @@
+{
+  "hl": "en-US",
+  "tz": 0,
+  "geo": "",
+  "timeframe": "today 12-m",
+  "gprop": "",
+  "category": 0,
+  "sleep": 1.0,
+  "export_dir": "data/exports",
+  "default_formats": ["json", "csv"]
+}
