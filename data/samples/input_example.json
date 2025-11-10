@@ -1,0 +1,20 @@
+{
+  "options": {
+    "geo": "US",
+    "timeframe": "today 12-m",
+    "hl": "en-US",
+    "gprop": "",
+    "category": 0
+  },
+  "inputs": [
+    "web scraping",
+    "seo",
+    {
+      "input": "python",
+      "options": {
+        "timeframe": "now 7-d"
+      }
+    },
+    "https://trends.google.com/trends/explore?date=today%2012-m&geo=PK&q=chatgpt"
+  ]
+}
